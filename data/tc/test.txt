@@ -1,0 +1,92 @@
+id,comment_text,toxic,severe_toxic,obscene,threat,insult,identity_hate
+0001ea8717f6de06,Thank you for understanding. I think very highly of you and would not revert without discussion.,0,0,0,0,0,0
+000247e83dcc1211,:Dear god this site is horrible.,0,0,0,0,0,0
+0002f87b16116a7f,"""::: Somebody will invariably try to add Religion?  Really??  You mean, the way people have invariably kept adding """"Religion"""" to the Samuel Beckett infobox?  And why do you bother bringing up the long-dead completely non-existent """"Influences"""" issue?  You're just flailing, making up crap on the fly.
+ ::: For comparison, the only explicit acknowledgement in the entire Amos Oz article that he is personally Jewish is in the categories!
+
+ """,0,0,0,0,0,0
+0003e1cccfd5a40a,"""
+
+ It says it right there that it IS a type. The """"Type"""" of institution is needed in this case because there are three levels of SUNY schools:
+ -University Centers and Doctoral Granting Institutions
+ -State Colleges
+ -Community Colleges.
+
+ It is needed in this case to clarify that UB is a SUNY Center. It says it even in Binghamton University, University at Albany, State University of New York, and Stony Brook University. Stop trying to say it's not because I am totally right in this case.""",0,0,0,0,0,0
+00059ace3e3e9a53,"""
+
+ == Before adding a new product to the list, make sure it's relevant ==
+
+ Before adding a new product to the list, make sure it has a wikipedia entry already, """"proving"""" it's relevance and giving the reader the possibility to read more about it.
+ Otherwise it could be subject to deletion. See this article's revision history.""",0,0,0,0,0,0
+000663aff0fffc80,this other one from 1897,0,0,0,0,0,0
+000689dd34e20979,"== Reason for banning throwing ==
+
+ This article needs a section on /why/ throwing is banned. At the moment, to a non-cricket fan, it seems kind of arbitrary.",0,0,0,0,0,0
+000844b52dee5f3f,|blocked]] from editing Wikipedia.   |,0,0,0,0,0,0
+00091c35fa9d0465,"== Arabs are committing genocide in Iraq, but no protests in Europe. ==
+
+ May Europe also burn in hell.",1,0,0,0,0,0
+000968ce11f5ee34,"Please stop. If you continue to vandalize Wikipedia, as you did to Homosexuality, you will be blocked from editing.",0,0,0,0,0,0
+0009734200a85047,"== Energy  ==
+
+ I have edited the introduction, because previously it said that passive transport does not use any kind of energy. This is not true. Passive transport relies on the kinetic energy of the substance that is being transported. This kinetic energy is what causes it to move around and (by random chance) cross the membrane. The difference is that active transport actually uses the cell's energy (ATP or electrochemical gradient) to pump the substance across the membrane.",0,0,0,0,0,0
+000a02d807ae0254,"@RedSlash, cut it short. If you have sources stating the RoK is sovereign post them. Otherwise please aknowledge WP is not the place to make OR.",0,0,0,0,0,0
+000bafe2080bba82,".
+
+           Jews are not a race because you can only get it from your mother. Your own mention of Ethiopian Jews not testing
+           as Jews proves it is not, as well as the fact that we accept converts",0,0,0,0,0,0
+000bf0a9894b2807,":::If Ollie or others think that one list of the oldest people we know about is too long, the easy answer is to raise the cutoff age. 110 is purely a round number and a full 12 years shorter then the record. We can make it the top 1000 or top 500 or everyone above 115 - tell us what the maximum list size is and we can set a threshold.",0,0,0,0,0,0
+000c9b92318552d1,Professors to the Manhatten Project.,0,0,0,0,0,0
+000cf60dbaed8c02,"""
+
+ :Not sure whether this is notable enough to be mentioned in the article, but you're right – versions later than 6 (2001) can open files created by all previous versions, but save files only in its own format, with a suffix of """".msX"""", where X is the version number (7, 8, 9, 10, 11, 12...). This is intentional, of course. Besides, all versions but 7 save files in a compressed format. ☭共产主义万岁★ """,0,0,0,0,0,0
+000d4f120d5a7303,일이삼사오육칠팔구하고십이요 에헤헤 으헤 으헤 으허허,0,0,0,0,0,0
+001068b809feee6b,"""
+
+ ==balance==
+ This page has one sentence about the basic definition of the word, and a huge amount about the slang/profane uses. Perhaps the former should be extended; is there no information about female dogs available beyond their name? This is an encyclopaedia, not a dictionary.
+
+
+ i feel that whoever is looking this definition up is very appropiate and should be deleted from wikipedia...IMMEDIATLY. this word is used very often and is also a very """"mean"""" word. i belive that is majorly true. very much so. okay so, the good meaning is a female dog.  BITCH !!!!!!!!!It also stands for the name Brittany Fellows—Preceding unsigned comment added by   •
+
+ ==etymology==
+ The word bitch is from the Old Norse Bikkjuna meaning """"female of the dog"""" of unknown origin, Grimm derives the Old Norse words from Lapp Pittja, But OED notes that """"the converse is equally possible.""""
+ The adj. Bitchy was first seen in 1925.
+ The verb meaning to complain in 1930.
+ Slang Bitchen """"good"""" is attested to the 1950's
+
+ == reclaiming the word bitch ==
+ The word bitch is actually only offencive in American and Canadian English. In most other English variants bitch maintains it's correct definition - female canine. People have argued that bitch is different because it is used as an insult - but so is """"pig"""", """"dog"""", """"cow"""" and others. These are not considered profane, so why is bitch? As far as I am concerned, there is nothing to """"reclaim"""" as bitch simply means a female canine.
+
+ It may be used as a pejorative or descriptor - that does not make it a profanity.
+
+
+ It should definately say something about Kyle Vanderweilen and all his bitchin Is there any particular evidence of women """"reclaiming"""" the word bitch in the 90s? Can anyone point to articles on this, etc.? The song is definitely interesting and belongs here, but doesn't actually reclaim the word """"bitch"""" any more than it reclaims the word """"sinner.""""
+
+ Also, I don't really understand the last paragraph and it sucks  I was going to try and clear it up, but I realized I don't know what it means. Can someone point to a source that lays out the argument about bitches, fertility and patriarchy more clearly?
+
+
+
+ :We don't need articles at all as I there are definitely enough examples (even outside of the 90s). Missy Elliot cleary and repeatedly reclaims the word, for instance, """"She's a Bitch"""".
+
+ ::References are fine  just the name """"Missy Elliot"""" got me to find a quote of a rolling stone review that mentioned """"reclaiming"""" the word. In fact, if some one knows more about her, it might be interesting to add a section on her work and on how it relates to women/slurs more generally within hip-hop.
+
+ :::How relevant is this reclamation? It seems to me poison for a woman to use an epithet which still strongly connotes despised traits. I don't see how using a word connoting """"querolous"""", """"spiteful"""", and """"malicious"""" can be empowering. But I don't know; life's a bitch.
+
+ ::::It stems from a reaction to the prevalence of tagging any woman who doesn't adhere to a certain standard of femininity as a bitch. To use a literary example, in the novel The Handmaid's Tale the narrator related the feeling that, whenever she outsmarted a man, she could almost hear him calling her a bitch in his mind, even her own husband. -
+
+ :::::That literary reaction you recited is jealousy; men have names for other men who outsmart them too, but, not having a word like """"bitch"""" for them, they have to resort to a greater variety of pejoritive epithets. Though you haven't been specific, I think that standard of femininity you referred to is a pretext for subordination, which both sexes often strive to impose on the other, but men have traditionally had more power. Because it is such a popular epithet in slang, the connotations of """"bitch"""" are diffuse, though still commonly pernicious. I think bitch, in itself, is not chiefly a denunciation to punish women who do not conform to that standard, but rather a contemptuous word often used for it.
+
+ :::::However, I still don't see the point of reclamati",0,0,0,0,0,0
+0011cefc680993ba,REDIRECT Talk:Mi Vida Eres Tú,0,0,0,0,0,0
+0011ef6aa33d42e6,"""
+ I'm not convinced that he was blind. Where is this documented? It's possible that he was just what we'd call """"Legally blind"""" ie didn't have great vision, and that the name """"Blind Blake"""" is an exaggerated moniker. Although I have no proof I've got a feeling that him being legally blind is more likely than totally blind. Of course I've got no evidence to back that thing up.""",0,0,0,0,0,0
+0012bb72f20ae971,"""
+
+ == Ref: SS Ponzi Scheme ==
+
+ Hi Padillah,
+ It is not my opinion that I am trying to impose here, although it may appear to be so. I am just highlighting the fact that it remains controversial whether it is or isn't a Ponzi Scheme (even if a legal one), so you cannot state as a fact that it is not a Ponzi Scheme (I saw the reference, and the perpetrator itself cannot be treated as a """"reliable source""""). In fact, claiming it is not a Ponzi Scheme seems to be an opinion in itself. My point is that a claim should not be made either way, and the edit in question just accomplishes that.
+ Thank you,
+ Virat""",0,0,0,0,0,0

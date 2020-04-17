@@ -1,0 +1,327 @@
+# newdoc id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200
+# sent_id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200-0001
+# text = What if Google Morphed Into GoogleOS?
+What	PRON
+if	SCONJ
+Google	PROPN
+Morphed	VERB
+Into	ADP
+GoogleOS	PROPN
+?	PUNCT
+
+# sent_id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200-0002
+# text = What if Google expanded on its search-engine (and now e-mail) wares into a full-fledged operating system?
+What	PRON
+if	SCONJ
+Google	PROPN
+expanded	VERB
+on	ADP
+its	PRON
+search	NOUN
+-	PUNCT
+engine	NOUN
+(	PUNCT
+and	CCONJ
+now	ADV
+e-mail	NOUN
+)	PUNCT
+wares	NOUN
+into	ADP
+a	DET
+full	ADV
+-	PUNCT
+fledged	ADJ
+operating	NOUN
+system	NOUN
+?	PUNCT
+
+# sent_id = weblog-blogspot.com_zentelligence_20040423000200_ENG_20040423_000200-0003
+# text = [via Microsoft Watch from Mary Jo Foley ]
+[	PUNCT
+via	ADP
+Microsoft	PROPN
+Watch	PROPN
+from	ADP
+Mary	PROPN
+Jo	PROPN
+Foley	PROPN
+]	PUNCT
+
+# newdoc id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0001
+# text = (And, by the way, is anybody else just a little nostalgic for the days when that was a good thing?)
+(	PUNCT
+And	CCONJ
+,	PUNCT
+by	ADP
+the	DET
+way	NOUN
+,	PUNCT
+is	AUX
+anybody	PRON
+else	ADJ
+just	ADV
+a	DET
+little	ADJ
+nostalgic	NOUN
+for	ADP
+the	DET
+days	NOUN
+when	ADV
+that	PRON
+was	AUX
+a	DET
+good	ADJ
+thing	NOUN
+?	PUNCT
+)	PUNCT
+
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0002
+# text = This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.
+This	DET
+BuzzMachine	PROPN
+post	NOUN
+argues	VERB
+that	SCONJ
+Google	PROPN
+'s	PART
+rush	NOUN
+toward	ADP
+ubiquity	NOUN
+might	AUX
+backfire	VERB
+--	PUNCT
+which	PRON
+we	PRON
+'ve	AUX
+all	ADV
+heard	VERB
+before	ADV
+,	PUNCT
+but	CCONJ
+it	PRON
+'s	AUX
+particularly	ADV
+well	ADV
+-	PUNCT
+put	VERB
+in	ADP
+this	DET
+post	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0003
+# text = Google is a nice search engine.
+Google	PROPN
+is	AUX
+a	DET
+nice	ADJ
+search	NOUN
+engine	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0004
+# text = Does anybody use it for anything else?
+Does	AUX
+anybody	PRON
+use	VERB
+it	PRON
+for	ADP
+anything	PRON
+else	ADJ
+?	PUNCT
+
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0005
+# text = They own blogger, of course.
+They	PRON
+own	VERB
+blogger	PROPN
+,	PUNCT
+of	ADV
+course	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0006
+# text = Is that a money maker?
+Is	AUX
+that	PRON
+a	DET
+money	NOUN
+maker	NOUN
+?	PUNCT
+
+# sent_id = weblog-blogspot.com_marketview_20050511222700_ENG_20050511_222700-0007
+# text = I'm staying away from the stock.
+I	PRON
+'m	AUX
+staying	VERB
+away	ADV
+from	ADP
+the	DET
+stock	NOUN
+.	PUNCT
+
+# newdoc id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0001
+# text = I doubt the very few who actually read my blog have not come across this yet, but I figured I would put it out there anyways.
+I	PRON
+doubt	VERB
+the	DET
+very	ADV
+few	ADJ
+who	PRON
+actually	ADV
+read	VERB
+my	PRON
+blog	NOUN
+have	AUX
+not	PART
+come	VERB
+across	ADP
+this	PRON
+yet	ADV
+,	PUNCT
+but	CCONJ
+I	PRON
+figured	VERB
+I	PRON
+would	AUX
+put	VERB
+it	PRON
+out	ADV
+there	ADV
+anyways	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0002
+# text = John Donovan from Argghhh! has put out a excellent slide show on what was actually found and fought for in Fallujah.
+John	PROPN
+Donovan	PROPN
+from	ADP
+Argghhh!	PROPN
+has	AUX
+put	VERB
+out	ADP
+a	DET
+excellent	ADJ
+slide	NOUN
+show	NOUN
+on	SCONJ
+what	PRON
+was	AUX
+actually	ADV
+found	VERB
+and	CCONJ
+fought	VERB
+for	ADP
+in	ADP
+Fallujah	PROPN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0003
+# text = Click here To view it.
+Click	VERB
+here	ADV
+To	PART
+view	VERB
+it	PRON
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0004
+# text = He makes some good observations on a few of the pic's.
+He	PRON
+makes	VERB
+some	DET
+good	ADJ
+observations	NOUN
+on	ADP
+a	DET
+few	ADJ
+of	ADP
+the	DET
+pic's	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0005
+# text = One of the pictures shows a flag that was found in Fallujah.
+One	NUM
+of	ADP
+the	DET
+pictures	NOUN
+shows	VERB
+a	DET
+flag	NOUN
+that	PRON
+was	AUX
+found	VERB
+in	ADP
+Fallujah	PROPN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0006
+# text = On the next two pictures he took screenshots of two beheading video's.
+On	ADP
+the	DET
+next	ADJ
+two	NUM
+pictures	NOUN
+he	PRON
+took	VERB
+screenshots	NOUN
+of	ADP
+two	NUM
+beheading	NOUN
+video's	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0007
+# text = Compare the flags to the Fallujah one.
+Compare	VERB
+the	DET
+flags	NOUN
+to	ADP
+the	DET
+Fallujah	PROPN
+one	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0008
+# text = You have to see these slides....they are amazing.
+You	PRON
+have	VERB
+to	PART
+see	VERB
+these	DET
+slides	NOUN
+....	PUNCT
+they	PRON
+are	AUX
+amazing	ADJ
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_floppingaces_20041126180010_ENG_20041126_180010-0009
+# text = This Fallujah operation my turn out to be the most important operation done by the US Military since the end of the war.
+This	DET
+Fallujah	PROPN
+operation	NOUN
+my	AUX
+turn	VERB
+out	ADP
+to	PART
+be	AUX
+the	DET
+most	ADV
+important	ADJ
+operation	NOUN
+done	VERB
+by	ADP
+the	DET
+US	PROPN
+Military	NOUN
+since	ADP
+the	DET
+end	NOUN
+of	ADP
+the	DET
+war	NOUN
+.	PUNCT

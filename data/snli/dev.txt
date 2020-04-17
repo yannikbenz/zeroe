@@ -1,0 +1,10 @@
+gold_label	sentence1	sentence2
+neutral	Two women are embracing while holding to go packages.	The sisters are hugging goodbye while holding to go packages after just eating lunch.
+entailment	Two women are embracing while holding to go packages.	Two woman are holding packages.
+contradiction	Two women are embracing while holding to go packages.	The men are fighting outside a deli.
+entailment	Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.	Two kids in numbered jerseys wash their hands.
+neutral	Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.	Two kids at a ballgame wash their hands.
+contradiction	Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.	Two kids in jackets walk to school.
+contradiction	A man selling donuts to a customer during a world exhibition event held in the city of Angeles	A woman drinks her coffee in a small cafe.
+neutral	A man selling donuts to a customer during a world exhibition event held in the city of Angeles	A man selling donuts to a customer during a world exhibition event while people wait in line behind him.
+entailment	A man selling donuts to a customer during a world exhibition event held in the city of Angeles	A man selling donuts to a customer.

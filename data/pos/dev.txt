@@ -1,0 +1,316 @@
+# newdoc id = weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713
+# sent_id = weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0001
+# text = From the AP comes this story :
+From	ADP
+the	DET
+AP	PROPN
+comes	VERB
+this	DET
+story	NOUN
+:	PUNCT
+
+# sent_id = weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0002
+# text = President Bush on Tuesday nominated two individuals to replace retiring jurists on federal courts in the Washington area.
+President	PROPN
+Bush	PROPN
+on	ADP
+Tuesday	PROPN
+nominated	VERB
+two	NUM
+individuals	NOUN
+to	PART
+replace	VERB
+retiring	VERB
+jurists	NOUN
+on	ADP
+federal	ADJ
+courts	NOUN
+in	ADP
+the	DET
+Washington	PROPN
+area	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0003
+# text = Bush nominated Jennifer M. Anderson for a 15-year term as associate judge of the Superior Court of the District of Columbia, replacing Steffen W. Graae.
+Bush	PROPN
+nominated	VERB
+Jennifer	PROPN
+M.	PROPN
+Anderson	PROPN
+for	ADP
+a	DET
+15	NUM
+-	PUNCT
+year	NOUN
+term	NOUN
+as	ADP
+associate	ADJ
+judge	NOUN
+of	ADP
+the	DET
+Superior	PROPN
+Court	PROPN
+of	ADP
+the	DET
+District	PROPN
+of	ADP
+Columbia	PROPN
+,	PUNCT
+replacing	VERB
+Steffen	PROPN
+W.	PROPN
+Graae	PROPN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0004
+# text = ***
+***	PUNCT
+
+# sent_id = weblog-blogspot.com_nominations_20041117172713_ENG_20041117_172713-0005
+# text = Bush also nominated A. Noel Anketell Kramer for a 15-year term as associate judge of the District of Columbia Court of Appeals, replacing John Montague Steadman.
+Bush	PROPN
+also	ADV
+nominated	VERB
+A.	PROPN
+Noel	PROPN
+Anketell	PROPN
+Kramer	PROPN
+for	ADP
+a	DET
+15	NUM
+-	PUNCT
+year	NOUN
+term	NOUN
+as	ADP
+associate	ADJ
+judge	NOUN
+of	ADP
+the	DET
+District	PROPN
+of	ADP
+Columbia	PROPN
+Court	PROPN
+of	ADP
+Appeals	PROPN
+,	PUNCT
+replacing	VERB
+John	PROPN
+Montague	PROPN
+Steadman	PROPN
+.	PUNCT
+
+# newdoc id = weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000
+# sent_id = weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0001
+# text = The sheikh in wheel-chair has been attacked with a F-16-launched bomb.
+The	DET
+sheikh	NOUN
+in	ADP
+wheel	NOUN
+-	PUNCT
+chair	NOUN
+has	AUX
+been	AUX
+attacked	VERB
+with	ADP
+a	DET
+F	NOUN
+-	PUNCT
+16	NUM
+-	PUNCT
+launched	VERB
+bomb	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0002
+# text = He could be killed years ago and the israelians have all the reasons, since he founded and he is the spiritual leader of Hamas, but they didn't.
+He	PRON
+could	AUX
+be	AUX
+killed	VERB
+years	NOUN
+ago	ADV
+and	CCONJ
+the	DET
+israelians	PROPN
+have	VERB
+all	DET
+the	DET
+reasons	NOUN
+,	PUNCT
+since	SCONJ
+he	PRON
+founded	VERB
+and	CCONJ
+he	PRON
+is	AUX
+the	DET
+spiritual	ADJ
+leader	NOUN
+of	ADP
+Hamas	PROPN
+,	PUNCT
+but	CCONJ
+they	PRON
+did	VERB
+n't	PART
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0003
+# text = Today's incident proves that Sharon has lost his patience and his hope in peace.
+Today	NOUN
+'s	PART
+incident	NOUN
+proves	VERB
+that	SCONJ
+Sharon	PROPN
+has	AUX
+lost	VERB
+his	PRON
+patience	NOUN
+and	CCONJ
+his	PRON
+hope	NOUN
+in	ADP
+peace	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0004
+# text = Nervous people make mistakes, so I suppose there will be a wave of succesfull arab attacks.
+Nervous	ADJ
+people	NOUN
+make	VERB
+mistakes	NOUN
+,	PUNCT
+so	ADV
+I	PRON
+suppose	VERB
+there	PRON
+will	AUX
+be	VERB
+a	DET
+wave	NOUN
+of	ADP
+succesfull	ADJ
+arab	ADJ
+attacks	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_gettingpolitical_20030906235000_ENG_20030906_235000-0005
+# text = A la guerre c'est comme a la guerre!
+A	X
+la	X
+guerre	X
+c'est	X
+comme	X
+a	X
+la	X
+guerre	X
+!	PUNCT
+
+# newdoc id = weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100
+# sent_id = weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0001
+# text = In the eastern city of Baqubah, guerrillas detonated a car bomb outside a police station, killing several people.
+In	ADP
+the	DET
+eastern	ADJ
+city	NOUN
+of	ADP
+Baqubah	PROPN
+,	PUNCT
+guerrillas	NOUN
+detonated	VERB
+a	DET
+car	NOUN
+bomb	NOUN
+outside	ADP
+a	DET
+police	NOUN
+station	NOUN
+,	PUNCT
+killing	VERB
+several	ADJ
+people	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0002
+# text = The US lost yet another helicopter to hostile fire near Habbaniyah in the Sunni heartland, but this time the crew was safe.
+The	DET
+US	PROPN
+lost	VERB
+yet	ADV
+another	DET
+helicopter	NOUN
+to	ADP
+hostile	ADJ
+fire	NOUN
+near	ADP
+Habbaniyah	PROPN
+in	ADP
+the	DET
+Sunni	ADJ
+heartland	NOUN
+,	PUNCT
+but	CCONJ
+this	DET
+time	NOUN
+the	DET
+crew	NOUN
+was	AUX
+safe	ADJ
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0003
+# text = In Fallujah, hundreds of demonstrators came out against US troops when they briefly arrested a yound newlywed bride.
+In	ADP
+Fallujah	PROPN
+,	PUNCT
+hundreds	NOUN
+of	ADP
+demonstrators	NOUN
+came	VERB
+out	ADV
+against	ADP
+US	PROPN
+troops	NOUN
+when	ADV
+they	PRON
+briefly	ADV
+arrested	VERB
+a	DET
+yound	ADJ
+newlywed	ADJ
+bride	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0004
+# text = (I hope that the US army got an enormous amount of information from her relatives, because otherwise this move was a bad, bad tradeoff).
+(	PUNCT
+I	PRON
+hope	VERB
+that	SCONJ
+the	DET
+US	PROPN
+army	NOUN
+got	VERB
+an	DET
+enormous	ADJ
+amount	NOUN
+of	ADP
+information	NOUN
+from	ADP
+her	PRON
+relatives	NOUN
+,	PUNCT
+because	SCONJ
+otherwise	ADV
+this	DET
+move	NOUN
+was	AUX
+a	DET
+bad	ADJ
+,	PUNCT
+bad	ADJ
+tradeoff	NOUN
+)	PUNCT
+.	PUNCT

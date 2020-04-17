@@ -1,0 +1,12 @@
+gold_label	sentence1	sentence2
+neutral	This church choir sings to the masses as they sing joyous songs from the book at a church.	The church has cracks in the ceiling.
+entailment	This church choir sings to the masses as they sing joyous songs from the book at a church.	The church is filled with song.
+contradiction	This church choir sings to the masses as they sing joyous songs from the book at a church.	A choir singing at a baseball game.
+neutral	A woman with a green headscarf, blue shirt and a very big grin.	The woman is young.
+entailment	A woman with a green headscarf, blue shirt and a very big grin.	The woman is very happy.
+contradiction	A woman with a green headscarf, blue shirt and a very big grin.	The woman has been shot.
+entailment	An old man with a package poses in front of an advertisement.	A man poses in front of an ad.
+neutral	An old man with a package poses in front of an advertisement.	A man poses in front of an ad for beer.
+contradiction	An old man with a package poses in front of an advertisement.	A man walks by an ad.
+neutral	A statue at a museum that no seems to be looking at.	The statue is offensive and people are mad that it is on display.
+entailment	A statue at a museum that no seems to be looking at.	There is a statue that not many people seem to be interested in.
