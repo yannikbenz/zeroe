@@ -1,0 +1,9 @@
+torch
+nltk
+fastprogress
+scikit-learn
+absl
+numpy
+tensorflow-gpu==2.0.0
+transformers==2.5.1
+tqdm

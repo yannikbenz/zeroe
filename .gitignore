@@ -1,0 +1,5 @@
+logs/*
+models/*
+
+.idea
+cached_*
