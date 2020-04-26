@@ -13,6 +13,15 @@ import random
 
 
 def simple_perturb(text: str, method: str, perturbation_level=0.2):
+    """
+
+
+
+    :param text:
+    :param method:
+    :param perturbation_level:
+    :return:
+    """
     if not 0 <= perturbation_level <= 1:
         raise ValueError("Invalid value for perturbation level.")
 
