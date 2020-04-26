@@ -36,26 +36,54 @@ The fact that some packages are not available in the conda repository makes
 it necessary to install them manually:
 
 `pip install transformers==2.5.1`
+`pip install seqeval==0.0.12`
 
 The full requirements are given in the [requirements.txt](requirements.txt)
 You can also install them via:
 `pip install -r requirements.txt`
 
 ````
-`conda install numpy pandas scitkit-learn nltk`  
-`conda install -c fastai fastprogress`  
-`conda install tensorflow-gpu==2.0.0`  (if GPU is available else: `tensorflow==2.0.0`)  
-`pip install transformers==2.5.1`  
+conda install numpy pandas scitkit-learn nltk torch fastprogress absl tqdm
+conda install -c fastai fastprogress
+conda install tensorflow-gpu==2.0.0  (if GPU is available else: `tensorflow==2.0.0`)  
+pip install transformers==2.5.1
+pip install seqeval==0.0.12
 ````
 
 ## 2. code/models
 contains the models being used in this work
 
+### G2PP2G
+
+[g2pp2g.py](code/models/g2pp2g.py) contains the model(s) to generate the phonetic perturbations.
+Pretrained models used to generate the phonetic perturbations can be found in models/g2p and models/p2g.
+These pretrained models are automatically preloaded if the TRAIN flags aren't specified.
+Therefore to retrain the models you need to enable those flags in the source code.
+
 
 ## 3. data
 
-In order to perturb the data we preprocessed each tasks dataset by all our 10 perturbers.
+In order to perturb the data we preprocessed each tasks dataset by all our 10 perturbers
+and stored them to `data/task/{mode}_{perturber}_{level}.txt`, e.g. data/datasets/tc/train_phonetic_high.txt
+This naming scheme is important so run the experiments seamlessly.
 
+To generate this data run:
+````
+python gen_datasets.py 
+--task {task}
+--methods {attackers}
+--level {attack level}
+--indir {path_to_raw_data}
+````
+
+e.g. to generate the perturbed data for SNLI with all attackers on perturbation level low run:
+````
+python gen_datasets.py 
+--task snli
+--methods all
+--level low
+--indir ./data
+````
 
 ## 4. Run roberta train/eval/predict (experiments)
 
