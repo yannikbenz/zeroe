@@ -127,3 +127,71 @@ python run_tc.py
 --max_seq_length=256
 --do_eval
 ````
+
+## Defense Mechanisms
+
+### Adversarial Training (e.g. with full-swap)
+```` shell script
+python run_tc.py  
+--data_dir="data/datasets/tc"
+--model_type=roberta  
+--model_name_or_path=roberta-base  
+--output_dir="models/RoBERTa/at/1-1/tc"  
+--max_seq_length=256  
+--num_train_epochs=3  
+--per_device_train_batch_size=28  
+--seed=1  
+--do_train
+--full-swap
+--lmh
+````
+
+### Adversarial Training Leave-One-Out (e.g. with full-swap)
+```` shell script
+python run_tc.py  
+--data_dir="data/datasets/tc"
+--model_type=roberta  
+--model_name_or_path=roberta-base  
+--output_dir="models/RoBERTa/at/loo/tc"  
+--max_seq_length=256  
+--num_train_epochs=3  
+--per_device_train_batch_size=28  
+--seed=1  
+--do_train
+--perturber=no-full-swap
+--level=lmh
+````
+
+### Perturbed Pretraining
+```` shell script
+python run_lm.py  
+--data_dir="data/datasets/wiki"
+--model_type=roberta  
+--model_name_or_path=roberta-base  
+--output_dir="models/RoBERTa/pp"  
+--max_seq_length=256  
+--num_train_epochs=3  
+--per_device_train_batch_size=28  
+--seed=1 
+--do_train
+--perturber=all
+--level=clmh
+--task=pp
+````
+
+### Perturbed Language Model
+```` shell script
+python run_lm.py  
+--data_dir="data/datasets/wiki"
+--model_type=roberta  
+--model_name_or_path=roberta-base  
+--output_dir="models/RoBERTa/plm"  
+--max_seq_length=256  
+--num_train_epochs=3  
+--per_device_train_batch_size=28  
+--seed=1 
+--do_train
+--perturber=all
+--level=clmh
+--task=plm
+````
