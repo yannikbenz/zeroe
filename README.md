@@ -1,4 +1,7 @@
-# Robustnness of Deep Learning Models to Low-Level Adversarial Attacks
+# From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks
+
+Link to paper: https://arxiv.org/abs/2010.05648
+We got accepted to AACL-IJCNLP http://www.aacl2020.org/
 
 Experiments:
 
