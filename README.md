@@ -4,9 +4,10 @@ Further information about the experiments can be found in the paper [From Hero t
 
 ## Experiments:
 
-**Model**: RoBERTa
+### Model:
+RoBERTa
 
-**Perturbers**:
+### Perturbers:
 * full-shuffle
 * inner-shuffle
 * intruders
@@ -18,17 +19,27 @@ Further information about the experiments can be found in the paper [From Hero t
 * phonetic
 * visual
 
-**Tasks (Datasets)**:
+### Tasks (Datasets):
 * POS tagging (Universal Dependencies)
 * Natural Language Inference (SNLI)
 * Toxic Comment Classification (kaggle challenge)
 
-**Hyperparameters:**
+### Hyperparameters:
 Key | Value
 --- | ---
 Batch Size | 28
 Epochs | 3
 Sequence Length | 256
+
+### Results:
+#### RoBERTas' performance attacked by **Zéroe**
+![](attack_results.png)
+
+#### Adversarial Training
+![](adversarial_training_1-1.png)
+
+#### Adversarial Training (leave-one-out)
+![](adversarial_training_loo.png)
 
 ## 1. Requirements
 
