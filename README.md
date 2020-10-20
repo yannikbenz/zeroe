@@ -1,7 +1,6 @@
 # From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks
 
-Link to paper: https://arxiv.org/abs/2010.05648
-We got accepted to AACL-IJCNLP http://www.aacl2020.org/
+Further information about the experiments can be found in the paper [From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks](https://arxiv.org/abs/2010.05648)
 
 Experiments:
 
@@ -163,4 +162,16 @@ python run_tc.py
 --do_train
 --perturber=no-full-swap
 --level=lmh
+````
+
+# References
+````
+@misc{eger2020hero,
+      title={From Hero to Z\'eroe: A Benchmark of Low-Level Adversarial Attacks}, 
+      author={Steffen Eger and Yannik Benz},
+      year={2020},
+      eprint={2010.05648},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ````
