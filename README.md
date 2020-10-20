@@ -23,6 +23,13 @@ Further information about the experiments can be found in the paper [From Hero t
 * Natural Language Inference (SNLI)
 * Toxic Comment Classification (kaggle challenge)
 
+**Hyperparameters:**
+Key | Value
+--- | ---
+Batch Size | 28
+Epochs | 3
+Sequence Length | 256
+
 ## 1. Requirements
 
 We use conda to setup our python environment.
