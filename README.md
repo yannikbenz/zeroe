@@ -1,6 +1,19 @@
 # From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks
 
-Further information about the experiments can be found in the paper [From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks](https://arxiv.org/abs/2010.05648)
+This repository provides code and data for the paper [From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks](https://arxiv.org/abs/2010.05648)
+
+## Citation
+
+````
+@inproceedings{eger2020hero,
+      title={From Hero to Z\'eroe: A Benchmark of Low-Level Adversarial Attacks}, 
+      author={Steffen Eger and Yannik Benz},
+      year={2020},
+      booktitle={AACL},
+      publisher = "Association for Computational Linguistics",
+}
+````
+
 
 ## Experiments:
 
@@ -182,14 +195,3 @@ python run_tc.py
 --level=lmh
 ````
 
-# References
-````
-@misc{eger2020hero,
-      title={From Hero to Z\'eroe: A Benchmark of Low-Level Adversarial Attacks}, 
-      author={Steffen Eger and Yannik Benz},
-      year={2020},
-      eprint={2010.05648},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-````
