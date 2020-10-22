@@ -94,9 +94,9 @@ These pretrained models are automatically preloaded if the TRAIN flags aren't sp
 Therefore to retrain the models you need to enable those flags in the source code.
 
 
-## 3. data
+## 3. data + Attacks
 
-In order to perturb the data we preprocessed each tasks dataset by all our 10 perturbers
+In order to perturb the data we preprocessed each dataset by all our 10 perturbers
 and stored them to `data/task/{mode}_{perturber}_{level}.txt`, e.g. data/datasets/tc/train_phonetic_high.txt
 This naming scheme is important so run the experiments seamlessly.
 
