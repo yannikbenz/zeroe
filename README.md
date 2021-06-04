@@ -4,6 +4,9 @@ This repository provides code and data for the paper [From Hero to Zéroe: A Ben
 
 ## Citation
 
+If you use the Zéroe benchmark, please use the latest version available [here](https://github.com/yannikkellerde/BERT-Defense). 
+References for the benchmark are:
+
 ````
 @inproceedings{eger-benz-2020-hero,
     title = "From Hero to Z{\'e}roe: A Benchmark of Low-Level Adversarial Attacks",
@@ -19,6 +22,17 @@ This repository provides code and data for the paper [From Hero to Zéroe: A Ben
     abstract = "Adversarial attacks are label-preserving modifications to inputs of machine learning classifiers designed to fool machines but not humans. Natural Language Processing (NLP) has mostly focused on high-level attack scenarios such as paraphrasing input texts. We argue that these are less realistic in typical application scenarios such as in social media, and instead focus on low-level attacks on the character-level. Guided by human cognitive abilities and human robustness, we propose the first large-scale catalogue and benchmark of low-level adversarial attacks, which we dub Z{\'e}roe, encompassing nine different attack modes including visual and phonetic adversaries. We show that RoBERTa, NLP{'}s current workhorse, fails on our attacks. Our dataset provides a benchmark for testing robustness of future more human-like NLP models.",
 }
 ````
+
+```
+@inproceedings{keller:bert-defense,
+   title = "BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks",
+   author = "Yannik Keller and Jan Mackensen and Steffen Eger",
+   year = "2021",
+   booktitle = "Findings of the Association for Computational Linguistics: ACL 2021",
+   publisher = "Association for Computational Linguistics",
+   note="accepted"
+}
+```
 
 
 ## Experiments:
