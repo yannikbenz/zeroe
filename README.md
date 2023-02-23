@@ -24,16 +24,21 @@ References for the benchmark are:
 ````
 
 ```
-@inproceedings{keller:bert-defense,
-   title = "BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks",
-   author = "Keller, Yannik and Mackensen, Jan and Eger, Steffen",
-   year = "2021",
-   booktitle = "Findings of the Association for Computational Linguistics: ACL 2021",
-   publisher = "Association for Computational Linguistics",
-   note="accepted"
+@inproceedings{keller-etal-2021-bert,
+    title = "{BERT}-Defense: A Probabilistic Model Based on {BERT} to Combat Cognitively Inspired Orthographic Adversarial Attacks",
+    author = "Keller, Yannik  and
+      Mackensen, Jan  and
+      Eger, Steffen",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.141",
+    doi = "10.18653/v1/2021.findings-acl.141",
+    pages = "1616--1629",
 }
 ```
-
 
 ## Experiments:
 
