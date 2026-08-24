@@ -1,3 +1,5 @@
+
+
 # From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks
 
 This repository provides code and data for the paper [From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks](https://arxiv.org/abs/2010.05648)
@@ -101,7 +103,7 @@ You can also install them via:
 `pip install -r requirements.txt`
 
 ````
-conda install numpy pandas scitkit-learn nltk torch fastprogress absl tqdm
+conda install numpy pandas scikit-learn nltk torch fastprogress absl tqdm
 conda install -c fastai fastprogress
 conda install tensorflow-gpu==2.0.0  (if GPU is available else: `tensorflow==2.0.0`)  
 pip install transformers==2.5.1
@@ -219,4 +221,3 @@ python run_tc.py
 --perturber=no-full-swap
 --level=lmh
 ````
-
